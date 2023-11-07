@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static UnityEditor.Progress;
 
-public class Explotion : MonoBehaviour
+public class Explosion : MonoBehaviour
 {
     public Animator cannonballAnimator;
     public GameObject chest;
